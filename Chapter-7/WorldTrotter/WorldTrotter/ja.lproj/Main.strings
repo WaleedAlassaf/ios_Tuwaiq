@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Is equal to"; ObjectID = "GQg-f5-oR0"; */
+"GQg-f5-oR0.text" = "に等しい";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "Jme-75-IBA"; */
+"Jme-75-IBA.placeholder" = "値";
+
+/* Class = "UILabel"; text = "Degrees Fahrenheit"; ObjectID = "NQW-Nh-a6q"; */
+"NQW-Nh-a6q.text" = "華氏度";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "NSv-R3-f5x"; */
+"NSv-R3-f5x.placeholder" = "値";
+
+/* Class = "UITabBarItem"; title = "Temps"; ObjectID = "e6g-oc-g05"; */
+"e6g-oc-g05.title" = "温度";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "fqs-6D-05Q"; */
+"fqs-6D-05Q.title" = "地図";
+
+/* Class = "UILabel"; text = "Degrees Celsius"; ObjectID = "vTF-A4-7AF"; */
+"vTF-A4-7AF.text" = "摂氏";
